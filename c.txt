@@ -1,3 +1,7 @@
 noi dung c
 
+<<<<<<< HEAD
 cap nhat boi kevin
+=======
+cap nhat boi thong, ko phai kevin
+>>>>>>> origin/master
